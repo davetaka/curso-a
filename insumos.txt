@@ -1,0 +1,60 @@
+insumos
+
+parte chata:
+voltar no tempo
+muito tempo atrás, mas velho que andar pra frente
+matemática e sistemas de numeração
+porque matemática, porque algoritmos? repetições, padrões, etc
+
+300 a.C. binário https://pt.wikipedia.org/wiki/Sistema_de_numera%C3%A7%C3%A3o_bin%C3%A1rio
+
+explicar por cima como eram as coisas a vapor, era do metal, etc... que por sinal já existia uma certa lógica
+
+1600 - eletricidade começa a deixar de ser algo místico
+seculo 18 - descobriram como conduzir, utilizar, armazenar eletricidade, magnetismo, etc
+eletricidade passou de curiosidade para vida moderna
+
+1800 joseph jacquard https://en.wikipedia.org/wiki/Joseph_Marie_Jacquard
+e o tear malucão http://www.techtudo.com.br/platb/files//2196/2011/06/techtudo-tear-jacquard-1801.jpg
+o cara enxergou um problema, um padrão e fez uma máquina para isso
+
+1830 ada lovelace https://en.wikipedia.org/wiki/Ada_Lovelace
+e o motor analítico https://en.wikipedia.org/wiki/Analytical_Engine
+feito para fazer operações matemáticas
+https://www.google.com/search?tbm=isch&q=cart%C3%A3o%20perfurado%20computa%C3%A7%C3%A3o&tbs=imgo:1#imgrc=cyoKD1LBETI71M:
+http://www.techtudo.com.br/platb/files//2196/2011/06/techtudo-babbage-ada-lovelace-machine-Bernoulli.jpg
+ela descreveu academicamente como conceber um algoritmo
+
+durante esse século também houve muitos progressos com a engenharia elétrica
+
+nascimento da ciência da computação
+1945 +- alan turing https://en.wikipedia.org/wiki/Alan_Turing
+primeiro hacker (história interessante), primeiro programa "moderno"
+reconhecido agora, estampa a nota de 50 libras
+pequeno computador utilizado para descriptografar mensagens alemãs dos nazi matador
+https://en.wikipedia.org/wiki/File:Bombe-rebuild.jpg
+inventor do famoso teste de turing
+
+1900 - 1950 https://en.wikipedia.org/wiki/Transistor
+a maior invenção da computação moderna
+tentar explicar como funciona um transistor, incluindo um exemplo binário
+
+junto com isso veio os primeiros processadores
+https://pt.wikipedia.org/wiki/Unidade_central_de_processamento
+e consequentemente os primeiros micro processadores
+
+famosa lei de moore
+https://pt.wikipedia.org/wiki/Lei_de_Moore
+transistores aumentariam 100% a cada 18 meses dentro dos chips pelo mesmo custo
+
+1970 - a corrida do vale do silicio
+https://pt.wikipedia.org/wiki/Pirates_of_Silicon_Valley
+
+explicar agora um pouco dos computadores modernos
+
+contar curiosidades e heranças histórias que temos nos computadores
+font, string, case, algumas teclas perdidas
+
+explicar por cima como funciona uma instrução em um computador
+
+https://github.com/stereobooster/programming-languages-genealogical-tree
